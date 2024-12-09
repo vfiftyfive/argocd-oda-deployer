@@ -8,7 +8,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/${GH_USER}/oda-app-policies.git
+    repoURL: https://github.com/vfiftyfive/oda-app-policies.git
     targetRevision: HEAD
     path: clientintents
   destination:

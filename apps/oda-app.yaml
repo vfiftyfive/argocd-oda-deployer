@@ -8,7 +8,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/${GH_USER}/otter-detective-agency.git
+    repoURL: https://github.com/vfiftyfive/otter-detective-agency.git
     targetRevision:
     path: deploy/k8s
   destination:

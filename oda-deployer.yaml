@@ -12,8 +12,8 @@ spec:
         - /spec/source/targetRevision
   project: default
   source:
-    repoURL: https://github.com/${GH_USER}/argocd-oda-deployer.git
-    targetRevision: HEAD
+    repoURL: https://github.com/vfiftyfive/argocd-oda-deployer.git
+    targetRevision: vfiftyfive
     path: apps
   destination:
     server: https://kubernetes.default.svc
